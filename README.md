@@ -1,6 +1,6 @@
 # Hi there, I'm Emmanuel Ugochukwu! 👋
 
-I'm a passionate junior frontend developer dedicated to crafting delightful and user-friendly web experiences. My skills encompass a range of technologies, and I'm always eager to explore new tools and frameworks.
+I'm a passionate junior frontend developer learning backend and also dedicated to crafting delightful and user-friendly web experiences. My skills encompass a range of technologies, and I'm always eager to explore new tools and frameworks.
 
 ## 💻 Skills
 
