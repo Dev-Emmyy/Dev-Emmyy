@@ -22,7 +22,7 @@ I've had the opportunity to work on diverse projects during my journey as a fron
 
 ## 🌐 Portfolio
 
-Explore some of my projects on my portfolio: [dev-emmys-world.netlify.app](https://dev-emmys-world.netlify.app/)
+Explore some of my projects on my portfolio: [Portfolio](https://emma-new-portfolio.vercel.app/)
 
 ## 📱 Let's Connect
 
