@@ -1,12 +1,12 @@
 # Hi there, I'm Emmanuel Ugochukwu! 👋
 
-I'm a passionate junior frontend developer learning backend and also dedicated to crafting delightful and user-friendly web experiences. My skills encompass a range of technologies, and I'm always eager to explore new tools and frameworks.
+I'm a passionate Frontend developer learning backend and also dedicated to crafting delightful and user-friendly web experiences. My skills encompass a range of technologies, and I'm always eager to explore new tools and frameworks.
 
 ## 💻 Skills
 
 - **Languages:** Proficient in HTML, CSS, and JavaScript.
 - **Frameworks/Libraries:** Experienced with React.js and Next.js.
-- **Styling:** Love creating beautiful UIs with the efficiency of Tailwind CSS.
+- **Styling:** Love creating beautiful UIs with the efficiency of Tailwind CSS, Material UI.
 - **Responsive Design:** Ensuring seamless user experiences across various devices.
 - **Version Control:** Familiar with Git and GitHub for collaborative development.
 
