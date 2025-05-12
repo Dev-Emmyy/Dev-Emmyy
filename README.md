@@ -1,40 +1,59 @@
-# Hi there, I'm Emmanuel Ugochukwu! 👋
+# 👋 Hey there, I'm Emmanuel!
 
-I'm a passionate Frontend developer learning backend and also dedicated to crafting delightful and user-friendly web experiences. My skills encompass a range of technologies, and I'm always eager to explore new tools and frameworks.
+I'm a **Full-Stack Developer** with a passion for building fast, scalable, and user-friendly applications. While I started on the **frontend**, I've grown into the **backend world**, working with tools like **Firebase**, **NextAuth**, and **PostgreSQL** to power complete digital experiences.
 
-## 💻 Skills
+---
 
-- **Languages:** Proficient in HTML, CSS, and JavaScript.
-- **Frameworks/Libraries:** Experienced with React.js and Next.js.
-- **Styling:** Love creating beautiful UIs with the efficiency of Tailwind CSS, Material UI.
-- **Responsive Design:** Ensuring seamless user experiences across various devices.
-- **Version Control:** Familiar with Git and GitHub for collaborative development.
+## 🔥 What I Do
 
-## 🚀 Experience
+- 🧱 Build cross-platform mobile apps with **Flutter**
+- 🔐 Implement secure authentication with **Firebase Auth** and **NextAuth**
+- 🗃️ Design scalable backend systems with **Firebase** & **PostgreSQL**
+- 🌐 Develop and consume robust APIs
+- 🚀 Deploy full-stack projects with modern cloud tools
 
-I've had the opportunity to work on diverse projects during my journey as a frontend developer. From building responsive landing pages to dynamic React applications, each project has honed my skills and fueled my passion for creating impactful web solutions.
+---
 
-## 🌟 What Drives Me
+## 🧰 Tech Stack
 
-- **User-Centric Approach:** I believe in putting users first, ensuring that every design and functionality enhances their experience.
-- **Continuous Learning:** The ever-evolving nature of web development excites me. I stay updated with industry trends and love learning new technologies.
-- **Collaboration:** I thrive in collaborative environments, valuing teamwork and collective problem-solving.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-333333?style=flat&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🌐 Portfolio
+---
 
-Explore some of my projects on my portfolio: [Portfolio](https://emma-new-portfolio.vercel.app/)
+## 🧠 Currently Exploring
 
-## 📱 Let's Connect
+- 🛠 Advanced backend integrations and database design
+- 🧩 Authentication flows using NextAuth and Firebase
+- 🧪 API security, testing, and deployment pipelines
+- 🌍 Real-time applications using Firebase & Flutter
 
-- [Twitter](https://twitter.com/9Gunna9)
-- [Facebook](https://web.facebook.com/Emmaugo.214)
+---
 
-## ⚡ Fun fact
+## 🖥️ Check Out My Portfolio
 
-- I listening to a lot of music from hip-hop to pop then rnb....
+Visit my portfolio to see my featured work and current projects:
 
+🌐 [Portfolio](https://dopefolio-ten.vercel.app)
 
-I'm open to new opportunities, collaborations, and connecting with fellow developers. Let's build something amazing together!
+---
 
-Happy coding! 🚀
+## 📫 Let's Connect
+
+- 🐦 [Twitter](https://twitter.com/dev_emmyy)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-adebayo-6a7ba7284/)
+- 📧 [Github](https://github.com/Dev-Emmyy)
+
+---
+
+⚡ *Always building, always learning.*
+
 
