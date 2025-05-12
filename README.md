@@ -48,8 +48,8 @@ Visit my portfolio to see my featured work and current projects:
 
 ## 📫 Let's Connect
 
-- 🐦 [Twitter](https://twitter.com/dev_emmyy)
-- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-adebayo-6a7ba7284/)
+- 🐦 [Twitter](https://x.com/onlyDevEmmy)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-ugochukwu-ba798a25a/)
 - 📧 [Github](https://github.com/Dev-Emmyy)
 
 ---
